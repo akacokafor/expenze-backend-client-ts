@@ -1,0 +1,19 @@
+{
+  "name": "expenze-backend-client-ts",
+  "version": "0.0.1",
+  "description": "expenze backend client ts",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akacokafor/expenze-backend-client-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akacokafor/expenze-backend-client-ts/issues"
+  },
+  "homepage": "https://github.com/akacokafor/expenze-backend-client-ts#readme"
+}
